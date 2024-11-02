@@ -1,6 +1,6 @@
 {
 	"Name": "The Entity's Campfire",
-	"Version": 1728407484,
+	"Version": 1728438464,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -90,7 +90,6 @@
 				"139",
 				"147",
 				"149",
-				"150",
 				"151",
 				"152",
 				"155",
@@ -199,6 +198,10 @@
 				[
 					"183",
 					"184"
+				],
+				[
+					"181",
+					"178"
 				]
 			]
 		}
@@ -392,7 +395,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -495,7 +497,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"136",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -1190,11 +1191,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"150",
-				"196",
-				"211"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
@@ -1280,7 +1277,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"136",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -1301,6 +1297,7 @@
 			],
 			"SurvivorIndvPerkBans": [
 				"10",
+				"20",
 				"54",
 				"58",
 				"64",
@@ -2000,7 +1997,6 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"139",
 				"150",
 				"163",
 				"196",
@@ -2179,9 +2175,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -2342,11 +2336,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"150",
-				"196",
-				"211"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"34",
@@ -3113,11 +3103,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"150",
-				"196",
-				"211"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
